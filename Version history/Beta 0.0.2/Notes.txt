@@ -1,0 +1,4 @@
+Added sound design in the form of:
+	- background music for the title and main game
+	- Button clicks for all nodes, menu and upgrade buttons
+Added images labelling each menu button
