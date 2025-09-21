@@ -1,0 +1,42 @@
+maxTime: 24.5
+multiplier: 1.0
+maxValue: 10.0
+minValue: -10.0
+winState: 0.0
+moveSpeedFactor: 520.0
+maxNodes: 2.0
+doubleChance: 0.0
+doubleMaxTime: 5.0
+noNegativeMaxTime: 5.0
+noNegativeChance: 0.0
+timeFreezeMaxTime: 11.0
+timeFreezeChance: 4.0
+money: 80828.0
+Time Increase 1: 5.0
+Time Increase 2: 4.0
+Time Increase 3: 3.0
+Final Button: 0.0
+Multiplier 1: 0.0
+Multiplier 2: 0.0
+Max Value 1: 0.0
+Max Value 2: 0.0
+Max Value 3: 0.0
+Min Value 1: 0.0
+Min Value 2: 0.0
+Min Value 3: 0.0
+Movement Speed 1: 4.0
+Movement Speed 2: 3.0
+Double Chance 1: 0.0
+Max Nodes 1: 0.0
+Max Nodes 2: 0.0
+Max Nodes 3: 0.0
+Double Time 1: 0.0
+Double Time 2: 0.0
+Double Time 3: 0.0
+Best Nodes Possible 1: 0.0
+Best Nodes Possible 2: 0.0
+Best Nodes Possible 3: 0.0
+Time Freeze 1: 1.0
+Time Freeze 2: 3.0
+Time Freeze 3: 3.0
+Time Freeze 4: 3.0
